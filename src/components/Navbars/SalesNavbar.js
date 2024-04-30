@@ -118,7 +118,7 @@ function Header(props) {
             </button>
           </div>
           {/* <NavbarBrand href="/">{getBrand()}</NavbarBrand> */}
-           <NavbarBrand href="/">Admin Dashboard</NavbarBrand>
+           <NavbarBrand href="/">Sales Dashboard</NavbarBrand>
         </div>
         <NavbarToggler onClick={toggle}>
           <span className="navbar-toggler-bar navbar-kebab" />
